@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62" started-at="2018-10-14T20:11:42Z" finished-at="2018-10-14T20:11:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62" started-at="2018-10-14T20:11:42Z" finished-at="2018-10-14T20:11:42Z">
+      <class name="TestNG.Sample">
+        <test-method status="PASS" signature="Bsuite()[pri:0, instance:TestNG.Sample@457e2f02]" name="Bsuite" is-config="true" duration-ms="15" started-at="2018-10-14T20:11:42Z" finished-at="2018-10-14T20:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bsuite -->
+        <test-method status="PASS" signature="Btest()[pri:0, instance:TestNG.Sample@457e2f02]" name="Btest" is-config="true" duration-ms="0" started-at="2018-10-14T20:11:42Z" finished-at="2018-10-14T20:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Btest -->
+        <test-method status="PASS" signature="Bclass()[pri:0, instance:TestNG.Sample@457e2f02]" name="Bclass" is-config="true" duration-ms="0" started-at="2018-10-14T20:11:42Z" finished-at="2018-10-14T20:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bclass -->
+        <test-method status="PASS" signature="Bmethod()[pri:0, instance:TestNG.Sample@457e2f02]" name="Bmethod" is-config="true" duration-ms="0" started-at="2018-10-14T20:11:42Z" finished-at="2018-10-14T20:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:TestNG.Sample@457e2f02]" name="test1" duration-ms="15" started-at="2018-10-14T20:11:42Z" finished-at="2018-10-14T20:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="Amethod()[pri:0, instance:TestNG.Sample@457e2f02]" name="Amethod" is-config="true" duration-ms="0" started-at="2018-10-14T20:11:42Z" finished-at="2018-10-14T20:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amethod -->
+        <test-method status="PASS" signature="Atest()[pri:0, instance:TestNG.Sample@457e2f02]" name="Atest" is-config="true" duration-ms="0" started-at="2018-10-14T20:11:42Z" finished-at="2018-10-14T20:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Atest -->
+        <test-method status="PASS" signature="Aclass()[pri:0, instance:TestNG.Sample@457e2f02]" name="Aclass" is-config="true" duration-ms="0" started-at="2018-10-14T20:11:42Z" finished-at="2018-10-14T20:11:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aclass -->
+        <test-method status="PASS" signature="Asuite()[pri:0, instance:TestNG.Sample@457e2f02]" name="Asuite" is-config="true" duration-ms="0" started-at="2018-10-14T20:11:43Z" finished-at="2018-10-14T20:11:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Asuite -->
+      </class> <!-- TestNG.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
