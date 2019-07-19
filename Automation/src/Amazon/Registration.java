@@ -25,7 +25,6 @@ public class Registration {
 		Select select=new Select(drop);
 		Thread.sleep(5000);
 		select.selectByVisibleText("Python Developer");
-		
 		driver.findElement(By.xpath("//label[text()='Development']")).click();
 		driver.findElement(By.xpath("//button[text()='Sign Up']")).click();
 		Alert alert=driver.switchTo().alert();
